@@ -2,13 +2,6 @@ import styles from 'styles/forth.module.css'
 import Ul from 'component/forth/ul'
 
 export default function Forth () {
-  const s = {
-    subtitle: [
-      { text: 'AAA' },
-      { text: 'AAA' },
-      { text: 'AAA' }
-    ]
-  }
   return (
     <div className={styles.box}>
       <h1>Prep Mart</h1>
