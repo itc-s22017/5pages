@@ -1,0 +1,9 @@
+.footer{
+    margin:10px;
+    text-align:center;
+}
+
+.footer > p {
+    color:#600;
+    font-size:12px;
+}

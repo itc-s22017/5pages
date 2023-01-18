@@ -1,0 +1,10 @@
+.header {
+    background-color:#c00;
+    padding:10px;
+}
+
+.header > h1{
+    color:#FFF;
+    font-family:serif;
+    margin:0;
+}

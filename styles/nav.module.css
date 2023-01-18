@@ -1,0 +1,19 @@
+.container{
+    display:flex;
+}
+
+.container > li {
+    list-style:none;
+    padding:10px;
+    border:1px solid cyan;
+    width:80px;
+    text-align:center;
+    background-color:pink;
+    line-height:40px;
+}
+
+.container > li:hover{
+    opacity:0.8;
+    text-decoration:underline;
+    cursor:pointer;
+}

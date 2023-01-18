@@ -1,0 +1,17 @@
+.gridcolumn{
+    float:left;
+    overflow:hidden;
+    width:249px;
+}
+
+.contents{
+    background-color:#EEE;
+    border:1px solid #CCC;
+    overflow:hidden;
+    padding:10px;
+    width:498px;
+}
+
+.h1{
+    text-align:center;
+}
